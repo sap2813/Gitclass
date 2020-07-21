@@ -1,0 +1,2 @@
+# Gitclass
+A training repository.
