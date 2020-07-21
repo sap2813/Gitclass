@@ -1,2 +1,1 @@
-# Gitclass
-A training repository.
+#
